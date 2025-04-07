@@ -9,6 +9,7 @@ I'm passionate about building web applications, exploring AI & Data Science, and
 
 ## 🚀 About Me
 
+- 🎓 BTECH CSE GBPEC'26
 - 🎓 Currently learning and building projects in full-stack development.
 - 💻 Love working on frontend, backend, and data-driven applications.
 - 🎯 Focused on clean code, performance, and great user experiences.
@@ -54,16 +55,6 @@ I'm passionate about building web applications, exploring AI & Data Science, and
 ## 🏆 GitHub Trophies
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=Divyasinhaa&theme=radical&no-frame=true&column=4&margin-w=15&margin-h=15)
-
----
-
-## 📊 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Divyasinhaa&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=radical)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=YourGitHubUsername&theme=radical&hide_border=true)
 
 ---
 
