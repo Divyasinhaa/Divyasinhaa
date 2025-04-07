@@ -1,4 +1,14 @@
-## Hi there 👋
+# Hi there 👋 I'm Divya Sinha
+
+I'm a passionate Web Developer who loves creating high-quality websites! 💻
+👯 BTech CSE GBPEC'26
+⚡ I love making high-quality websites.
+🌱 Currently learning full-stack development in MERN along with ML.
+
+## Tech Stack
+[C++](#C++)            [C++](#C++)          [C++](#C++)              [C++](#C++) 
+
+
 
 <!--
 **Divyasinhaa/Divyasinhaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
